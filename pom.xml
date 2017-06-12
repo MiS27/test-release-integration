@@ -23,7 +23,7 @@
 
   <groupId>io.github.mis27</groupId>
   <artifactId>test-release</artifactId>
-  <version>2.0.3</version>
+  <version>2.0.4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>test release</name>
@@ -35,7 +35,7 @@
   <scm>
     <connection>scm:git:https://github.com/MiS27/test-release-integration.git</connection>
     <developerConnection>scm:git:git@github.com:MiS27/test-release-integration.git</developerConnection>
-    <tag>2.0.3</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/MiS27/test-release-integration</url>
   </scm>
 
